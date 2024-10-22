@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: Welcome to my blog / Willkommen zum meinem Blog
 ---
 
 ## My first day learning about Github pages
